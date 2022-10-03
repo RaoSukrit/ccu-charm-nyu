@@ -1,0 +1,12 @@
+---
+# general params (DO NOT CHANGE)
+bucket_name: olive-demo-v1
+status_csv_filename: status_csv.csv
+
+# access credentials for AWS S3 (DO NOT CHANGE)
+aws_credentials:
+    region_name: us-east-1
+    aws_access_key_id:
+    aws_secret_access_key:
+
+...
